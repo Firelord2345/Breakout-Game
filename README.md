@@ -62,6 +62,8 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Make sure to replace the `assets/breakout_game_screenshot.png` with an actual screenshot of the game if you plan to include it in the repo.
+![Screenshot 2025-01-13 222008](https://github.com/user-attachments/assets/6e9bd744-ff95-4210-a17c-7957d27a6476)
+
+![Screenshot 2025-01-13 222017](https://github.com/user-attachments/assets/0f6bfdfb-c713-43dc-9ccc-6283f4536c28)
 
 This `README.md` provides clear instructions for setting up and playing the game, while also leaving room for future improvements and enhancements!
